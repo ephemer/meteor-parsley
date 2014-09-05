@@ -1,6 +1,6 @@
 Package.describe({
-	summary: "Javascript forms validation. Powerful, UX aware, and dead simple. Internationalised."
-	version: "2.0.0",
+	summary: "Javascript forms validation. Powerful, UX aware, and dead simple. Internationalised.",
+	version: "2.0.1",
 	git: "https://github.com/ephemer/meteor-parsley"
 });
 
